@@ -1,0 +1,8 @@
+### **Comparison Summary of SimpleSequentialChain and SequentialChain**:
+
+| Feature                     | **SimpleSequentialChain**                       | **SequentialChain**                       |
+|-----------------------------|-----------------------------------------------  |---------------------------------------------|
+| **Purpose**                  | Linear, simple output-to-input flow            | Complex workflows with multiple inputs/outputs |
+| **Control over variables**   | Minimal (output of one step is input to next)  | High (you define input/output for each step) |
+| **Use cases**                | Simple, linear tasks                           | Complex tasks with varying dependencies     |
+| **Output**                   | Single output passed along                     | Multiple outputs controlled between steps   |

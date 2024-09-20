@@ -1,0 +1,12 @@
+
+# Ignore all .env files in any folder and subfolder under apps and basics
+Apps/**/.env
+Basics/**/.env
+
+# Ignore all venv directories in any folder and subfolder under apps and basics
+Apps/**/venv/
+Basics/**/myenv/
+Basics/**/__pycache__/
+
+# Ignore models directories in any folder and subfolder under apps
+Apps/**/models/
