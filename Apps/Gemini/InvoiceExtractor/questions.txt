@@ -1,0 +1,8 @@
+These questions can be asked to model
+
+1. Who is this invoice build to
+2. What is Deposit Requested
+3. What was the consulting fees
+Ans- The consulting fee was $1,125.00.
+4. What is the HSN number of lenovo 5125-I
+Ans- The HSN number for Lenovo 5125-I is 84713010. (Sometime will get an error but will get success after retrying)
