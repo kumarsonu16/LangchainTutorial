@@ -1,0 +1,5 @@
+Need to download poppler and unzip https://github.com/oschwartz10612/poppler-windows/releases/tag/v24.07.0-0
+Copy both folder Library and share
+Create a folder poppler inside C:\Program Files (x86)
+Paste Library and share folders
+Set the path of system variables C:\Program Files (x86)\poppler\Library\bin
