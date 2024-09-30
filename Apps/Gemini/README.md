@@ -5,3 +5,4 @@
 - ChatWithPDFs
 - ApplicationTrackingSystem
 - ApplicationTrackingSystemModified
+- TextToSQL
