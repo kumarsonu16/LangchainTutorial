@@ -1,0 +1,3 @@
+Provide me student name with second highest marks class wise
+Provide me the average marks of the all students class wise
+How many entries of records are present?
